@@ -1,0 +1,1 @@
+default_app_config = 'darmajaya.accounts.apps.AppConfig'
